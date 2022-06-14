@@ -1,2 +1,2 @@
 # -*- coding: utf-8 -*-
-import .from models
+import . from models
